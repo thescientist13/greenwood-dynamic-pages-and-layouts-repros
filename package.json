@@ -10,7 +10,7 @@
     "serve": "greenwood serve"
   },
   "devDependencies": {
-    "@greenwood/cli": "~0.33.0-alpha.2"
+    "@greenwood/cli": "~0.33.0-alpha.3"
   },
   "license": "ISC"
 }
