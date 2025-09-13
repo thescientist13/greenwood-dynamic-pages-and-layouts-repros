@@ -102,7 +102,7 @@ template.innerHTML = `
   </div>
 `;
 
-class Logo extends HTMLElement {
+export default class Logo extends HTMLElement {
   connectedCallback() {
     if (!this.shadowRoot) {
       this.attachShadow({ mode: "open" });
